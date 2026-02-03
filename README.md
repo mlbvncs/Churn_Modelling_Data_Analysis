@@ -9,5 +9,7 @@
 
 ### 2. Pré-processamento de dados
 
-1. Verifiquei a quantidade de valores ausentes (nulos) nas colunas do dataframe, com todas sendo 0, não necessitando de pré-processamento;
+1. Verifiquei a quantidade de valores ausentes (nulos) nas colunas do dataframe, com todas sendo 0, não necessitando de tratamento;
+2. Plotei boxplot para identificar possíveis outliers;
+3. 
 
