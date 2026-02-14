@@ -82,8 +82,8 @@ Análise do dataset Churn_Modelling, buscando destrinchar as variáveis e como s
 2. **Exited x Age:** A classificação mediana dos clientes que não saíram oscila entre 30 e 40 anos, com metade dos que continuaram estando entre por volta de 30 e pouco mais de 40 anos, havendo idades avançadas (50+) entre os que ficaram. Já a classificação mediana dos clientes que saíram oscila entre 40 e 50 anos, com metade dos que saíram oscilando entre pouco menos de 40 e 50 anos, havendo algumas poucas idades avançadas (70+) entre os que saíram;
 3. **Exited x Tenure:** A classificação mediana dos clientes que não saíram está por volta de 5 anos de filiação, com metade dos que continuaram oscilando entre 3 e 7 anos de filiação. A classificação mediana dos clientes que saíram está por volta de 5 anos de filiação, com metade dos que continuaram oscilando entre pouco mais de 2 e pouco menos de 7 anos de filiação;
 4. **Exited x EstimatedSalary:** A saída ou permanência é uniforme em relação ao salário estimado, portanto, o salário não parece influenciar a decisão de sair.
-5. **Exited x Gender:** Por volta de 25% das clientes do sexo feminino deixaram o banco, enquanto pouco mais de 15% dos clientes masculinos deixaram o banco; 
-6. **Exited x Geography:** Pouco mais de 15% dos clientes franceses e espanhóis saíram do banco (com espanhóis tendo saído um pouco mais) e entre 30% e 35% dos clientes alemães saíram do banco;
+5. **Exited x Gender:** Por volta de 10-15% das clientes do sexo feminino deixaram o banco, enquanto por volta de 10% dos clientes masculinos deixaram o banco; 
+6. **Exited x Geography:** Por volta de 5-10% de clientes franceses e alemães deixaram o banco, enquanto os espanhóis figuram em por volta de 5%;
 7. **Exited x IsActiveMember:** Entre os clientes não ativos, por volta de 10-15% saíram, já entre os ativos, por volta de 5-10% saíram. Os inativos têm taxa de churn aproximadamente 2x maior que os ativos;
 8. **Exited x HasCrCard:** Entre os clientes sem cartão de crédito, por volta de 5% saíram, já entre os com, por volta de 15% saíram. Os sem cartão têm taxa de churn aproximadamente 3x maior que os que possuem.
 
