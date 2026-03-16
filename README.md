@@ -1,9 +1,9 @@
-### Análise
-Análise descritiva do conjunto de dados Churn_Modelling, explorando as variáveis ​​e sua relação com os dados de saída.
-### Ordem recomendada para leitura/consulta das pastas:
+### Analysis
+Descriptive analysis of the Churn_Modelling dataset, exploring the variables and their relationship with the output data.
+### Recommended order for reading/consulting the folders:
 1. data/raw;
 2. notebooks.
-### Tradução
-Acesse a pasta de tradução para visualizar a tradução em português (Brasil).
-### Postagem no Medium
+### Translation
+Access the translation folder to view the Portuguese (Brazil) translation.
+### Medium post
 https://medium.com/@malbav100/análise-do-dataset-churn-modelling-6eafb0a5e5b2.
